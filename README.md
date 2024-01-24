@@ -109,12 +109,12 @@ Esto evitara errores a la hora de que la consola encuentre la ruta deseada.Una v
 
 ## Pasos para ejecución del programa:
 
-         1.- Abrir la consola de comando
+         Paso 1.- Abrir la consola de comando
 
-         2.- Escribir el comando cd y colocar la ruta del proyecto descargado donde se encuentren los archivos.java ejemplo:
+         Paso 2.- Escribir el comando cd y colocar la ruta del proyecto descargado donde se encuentren los archivos.java ejemplo:
 cd C:\Users\Anhell\Documents\NetBeansProjects\StackVsQueue\src\main\java\com\mycompany\stackvsqueue
 
-         3.- Una vez en esa ruta se debe compilar cada clase de java con el siguiente comando: javac -d . "nombre-de-la-clase".java para compilar el programa
+         Paso 3.- Una vez en esa ruta se debe compilar cada clase de java con el siguiente comando: javac -d . "nombre-de-la-clase".java para compilar el programa
 se debe hacer de este orden:
 
       1.-javac -d . PocketMonster.java
@@ -143,12 +143,10 @@ para efectos visuales puede abrir el archivo creado con el navegador
 Observaciones para usar los diferentes casos de entrada que se anexaron:
 
          1.- Como el programa usa un nombre especifico para trabajar los archivos Entrada_#Nr deben ser editados para su correcto uso:
-ejemplo
-Incorrecto: Entrada_1
-
-Correcto: Entrada 
-
-se elimina el "_numero" de el archivo q se desee utilizar dejando entrada
+         ejemplo
+         Incorrecto: Entrada_1
+         Correcto: Entrada 
+         se elimina el "_numero" de el archivo q se desee utilizar dejando entrada
 
          2.-El archivo editado se debe colocar en la carpeta EYS ruta: StackVsQueue\src\main\java\com\mycompany\stackvsqueue\EYS
          
