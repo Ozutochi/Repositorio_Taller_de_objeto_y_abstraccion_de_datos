@@ -1,0 +1,7 @@
+200,3665.euros.en("bolivares")
+2382780,50.bolivares.en("bitcoins")
+32000,45.dolares.en("yens")
+15000,52.dolares.en("euros")
+44,85.yens.comparar(50.bolivares)
+300,75.euros.comparar(300.yens)
+1,5.bitcoins.comparar(30000.euros)
